@@ -1,0 +1,7 @@
+{
+  "name": "Medicine Sorter with Health Monitoring",
+  "description": "A comprehensive mobile health companion for tracking medication schedules, vital signs, and intake history with a clean, high-contrast user interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
